@@ -1,7 +1,7 @@
 /**
  * @author Francesco Casula <fra.casula@gmail.com>
  *
- * This is a test for the caolan nodeunit (https://github.com/caolan/nodeunit)
+ * This is a test for the caolan nodeunit suite (https://github.com/caolan/nodeunit)
  */
 
 var GeoPoint = require('geo-utils').GeoPoint,
