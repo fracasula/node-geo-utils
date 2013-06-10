@@ -1,7 +1,7 @@
 node-geo-utils
 ==============
 
-Node.js Geo utilities (calculate distance between two latitude/longitude points)
+This package include a simple geolocation utility for Node.js that allow you to calculate the distance between two latitude/longitude points.
 
 ### Example
 
